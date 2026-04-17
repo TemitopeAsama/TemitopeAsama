@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TemitopeAsama
-- 👀 I’m interested in Software Engineering, Neuroscience, Artificial Intelligence and Machine Learning.
-- 🌱 I’m a Product Engineer.
+- 👀 My interests include Engineering, Neuroscience, and AI/ML.
+- 🌱 I’m currently a Frontend Engineer.
 - 💞️ Interests include music, mathematics, research, movies and books!
 - 📫 Reach me at temitopeasama@gmail.com
 
